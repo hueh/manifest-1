@@ -337,7 +337,7 @@ this avoids merging conflicts from AOSP manifest
 
 <!-- Frameworks -->
   <project path="frameworks/base" name="mikegapinski/platform_frameworks_base" remote="gh" revision="jellybean" />
-  <project path="frameworks/av" name="CyanogenMod/platform_frameworks_av" remote="cm" revision="jellybean" />
+  <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" remote="cm" revision="jellybean" />
   <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" remote="cm" revision="jellybean" />
 
 <!-- We use hardware from CM 10 -->
