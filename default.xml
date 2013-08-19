@@ -320,6 +320,9 @@ this avoids merging conflicts from AOSP manifest
 <!-- Devices and commons used by PolishBlood -->
   <project path="device/sony/montblanc-common" name="hueh/android_device_sony_montblanc-common-1" remote="gh" revision="jellybean" />
   <project path="device/sony/kumquat" name="hueh/android_device_sony_kumquat-1" remote="gh" revision="jellybean" />
+  <project path="device/sony/pepper" name="hueh/android_device_sony_pepper" remote="gh" revision="jellybean" />
+  <project path="device/sony/lotus" name="hueh/android_device_sony_lotus" remote="gh" revision="jellybean" />
+  <project path="device/sony/nypon" name="hueh/android_device_sony_nypon" remote="gh" revision="jellybean" />
 
 <!-- Vendors -->
   <project path="vendor/sony" name="hueh/android_vendor_sony" remote="gh" revision="cm10.1" />
@@ -332,7 +335,7 @@ this avoids merging conflicts from AOSP manifest
   <project path="external/wpa_supplicant_8_ti" name="CyanogenMod/android_external_wpa_supplicant_8_ti" remote="cm" revision="cm-10.1" />
 
 <!-- Frameworks -->
-  <project path="frameworks/base" name="mikegapinski/platform_frameworks_base" remote="gh" revision="jellybean" />
+  <project path="frameworks/base" name="hueh/platform_frameworks_base" remote="gh" revision="jellybean" />
   <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" remote="cm" revision="jellybean" />
   <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" remote="cm" revision="jellybean" />
 
