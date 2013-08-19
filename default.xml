@@ -321,7 +321,7 @@ this avoids merging conflicts from AOSP manifest
   <project path="device/sony/kumquat" name="hueh/android_device_sony_kumquat-1" remote="gh" revision="jellybean" />
 
 <!-- Vendors -->
-  <project path="vendor/sony" name="hueh/android_vendor_sony" remote="gh" revision="jb-4.1" />
+  <project path="vendor/sony" name="hueh/android_vendor_sony" remote="gh" revision="cm10.1" />
   <project path="vendor/PolishBlood" name="PolishBloodProject/platform_vendor_PolishBlood" remote="gh" revision="jb" />
 
 <!--Device kernels -->
