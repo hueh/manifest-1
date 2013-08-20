@@ -216,6 +216,7 @@
   <project path="libnativehelper" name="platform/libnativehelper" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   
+  <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="cm" revision="jellybean" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="packages/apps/Browser" name="platform/packages/apps/Browser" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
@@ -301,6 +302,7 @@
   <project path="system/extras" name="AOKP/system_extras" remote="aokp" revision="jb" />
   <project path="system/media" name="platform/system/media" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" remote="cm" revision="jellybean" />
+  <project path="system/su" name="CyanogenMod/android_system_su" remote="cm" revision="jellybean" />
   <project path="system/security" name="platform/system/security" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" remote="cm" revision="jellybean" />
 
