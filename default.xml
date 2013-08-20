@@ -329,7 +329,7 @@ this avoids merging conflicts from AOSP manifest
 
 <!-- Vendors -->
   <project path="vendor/sony" name="hueh/android_vendor_sony" remote="gh" revision="cm10.1" />
-  <project path="vendor/PolishBlood" name="PolishBloodProject/platform_vendor_PolishBlood" remote="gh" revision="jb" />
+  <project path="vendor/PolishBlood" name="hueh/platform_vendor_PolishBlood" remote="gh" revision="jb" />
 
 <!--Device kernels -->
   <project path="kernel/sony/u8500" name="hueh/android_kernel_sony_u8500" remote="gh" revision="jb-dev" />
