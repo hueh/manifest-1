@@ -331,6 +331,10 @@ this avoids merging conflicts from AOSP manifest
 
 <!--Device kernels -->
   <project path="kernel/sony/u8500" name="hueh/android_kernel_sony_u8500" remote="gh" revision="jb-dev" />
+  
+<!-- Unofficial packages that we like adding to our ROM ;) -->
+  <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="cm" revision="jellybean" />
+  <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" remote="cm" revision="jellybean" />
 
 <!-- Supplicant from CM10 -->
   <project path="external/wpa_supplicant_8_ti" name="CyanogenMod/android_external_wpa_supplicant_8_ti" remote="cm" revision="cm-10.1" />
