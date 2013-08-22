@@ -349,6 +349,6 @@ this avoids merging conflicts from AOSP manifest
 
 <!-- We use hardware from CM 10 -->
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" remote="fxp" revision="jellybean"/>
-  <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" remote="fxp" revision="jellybean"/>
+  <project path="hardware/libhardware_legacy" name="hueh/android_hardware_libhardware_legacy-1" remote="gh" revision="jellybean"/>
 
 </manifest>
