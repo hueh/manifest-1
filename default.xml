@@ -385,11 +385,11 @@
   <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" remote="cm" revision="cm-10.1" />
 <!-- Devices and commons used by XNovathor -->
 
-  <project path="device/sony/montblanc-common" name="hueh/android_device_sony_montblanc-common" remote="gh" revision="cm10.1" />
-  <project path="device/sony/kumquat" name="hueh/android_device_sony_kumquat" remote="gh" revision="cm10.1" />
-  <project path="device/sony/pepper" name="TeamCanjica/android_device_sony_pepper" remote="gh" revision="cm10.1" />
-  <project path="device/sony/lotus" name="TeamCanjica/android_device_sony_lotus" remote="gh" revision="cm10.1" />
-  <project path="device/sony/nypon" name="TeamCanjica/android_device_sony_nypon" remote="gh" revision="cm10.1" />
+  <project path="device/sony/montblanc-common" name="hueh/android_device_sony_montblanc-common" remote="github" revision="cm10.1" />
+  <project path="device/sony/kumquat" name="hueh/android_device_sony_kumquat" remote="github" revision="cm10.1" />
+  <project path="device/sony/pepper" name="TeamCanjica/android_device_sony_pepper" remote="github" revision="cm10.1" />
+  <project path="device/sony/lotus" name="TeamCanjica/android_device_sony_lotus" remote="github" revision="cm10.1" />
+  <project path="device/sony/nypon" name="TeamCanjica/android_device_sony_nypon" remote="github" revision="cm10.1" />
   
 
 <!-- Additional SONY hardware sources -->
@@ -397,10 +397,10 @@
   <project path="hardware/semc/dash" name="CyanogenMod/android_hardware_sony_DASH" remote="fxp" revision="cm-10.1"/>
 
 <!--Device kernels -->
-  <project path="kernel/sony/u8500" name="hueh/android_kernel_sony_u8500" remote="gh" revision="jb-dev" />
+  <project path="kernel/sony/u8500" name="hueh/android_kernel_sony_u8500" remote="github" revision="jb-dev" />
 
 <!--Device vendor -->
-  <project path="vendor/sony" name="hueh/android_vendor_sony" remote="gh" revision="cm10.1" />
+  <project path="vendor/sony" name="hueh/android_vendor_sony" remote="github" revision="cm10.1" />
   <project path="vendor/PolishBlood" name="PolishBloodProject/platform_vendor_PolishBlood" remote="github" revision="jb-4.2" />
   
 
