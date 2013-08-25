@@ -6,6 +6,10 @@
 	
   <remote name="gh"
            fetch="https://github.com/" />
+		   
+  <remote  name="github"
+           fetch=".."
+           review="review.cyanogenmod.org" />
 
   <remote name="cm"
            fetch="https://github.com/"
@@ -19,10 +23,10 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
-  <project path="bionic" name="CyanogenMod/bionic" remote="cm" revision="ics" />
-  <project path="bootable/bootloader/legacy" name="CyanogenMod/bootable/bootloader/legacy" remote="cm" revision="ics" />
-  <project path="bootable/diskinstaller" name="CyanogenMod/bootable/diskinstaller" remote="cm" revision="ics" />
-  <project path="bootable/recovery" name="CyanogenMod/bootable/recovery" remote="cm" revision="ics" />
+  <project path="bionic" name="CyanogenMod/bionic" />
+  <project path="bootable/bootloader/legacy" name="CyanogenMod/bootable/bootloader/legacy" />
+  <project path="bootable/diskinstaller" name="CyanogenMod/bootable/diskinstaller" />
+  <project path="bootable/recovery" name="CyanogenMod/bootable/recovery" />
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="CyanogenMod/dalvik" remote="cm" revision="ics" />
   <project path="development" name="CyanogenMod/development" remote="cm" revision="ics" />
