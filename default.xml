@@ -242,5 +242,12 @@
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="CyanogenMod/system/netd" remote="cm" revision="ics" />
   <project path="system/vold" name="CyanogenMod/system/vold" remote="cm" revision="ics" />
+  
+  <!-- Devices and commons used by XNovathor -->
+  <project path="device/sony/montblanc-common" name="hueh/android_device_sony_montblanc-common-1" remote="gh" revision="ics" />
+  <project path="device/sony/kumquat" name="hueh/android_device_sony_kumquat-1" remote="gh" revision="ics" />
+  
+  <!-- Vendors -->
+  <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="gh" revision="ics" />
 
 </manifest>
