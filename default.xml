@@ -397,7 +397,7 @@
   <project path="hardware/semc/dash" name="CyanogenMod/android_hardware_sony_DASH" remote="fxp" revision="cm-10.1"/>
 
 <!--Device kernels -->
-  <project path="kernel/sony/u8500" name="hueh/android_kernel_sony_u8500" remote="github" revision="jb-dev" />
+  <project path="kernel/sony/u8500" name="munjeni/android_kernel_xperiago" remote="github" revision="jb-dev" />
 
 <!--Device vendor -->
   <project path="vendor/sony" name="hueh/android_vendor_sony" remote="github" revision="cm10.1" />
