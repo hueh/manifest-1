@@ -58,6 +58,7 @@
   <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" />
   <project path="external/libnl-headers" name="CyanogenMod/android_external_libnl-headers" />
   <project path="external/libogg" name="CyanogenMod/android_external_libogg" />
+  <project path="external/libselinux" name="CyanogenMod/android_external_libselinux" remote="github" revision="cm-10.1" />
   <project path="external/libpng" name="CyanogenMod/android_external_libpng" />
   <project path="external/libvpx" name="CyanogenMod/android_external_libvpx" />
   <project path="external/linux-tools-perf" name="CyanogenMod/android_external_linux-tools-perf" />
