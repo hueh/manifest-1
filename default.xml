@@ -141,6 +141,7 @@
   <project path="ubuntu/assets" name="ubuntu/assets" revision="refs/heads/master" />
   <project path="ubuntu/uchroot" name="ubuntu/uchroot" revision="refs/heads/master" />
   
+  <project path="prebuilt/linux-x86/toolchain/" name="AdiPat/Android_Toolchains" remote="github" revision="master" />
   <!-- Devices and commons used by XNovathor -->
 
   <project path="device/sony/montblanc-common" name="hueh/android_device_sony_montblanc-common" remote="github" revision="cm10.1" />
