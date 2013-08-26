@@ -60,6 +60,7 @@
   <project path="external/libogg" name="CyanogenMod/android_external_libogg" />
   <project path="external/libpng" name="CyanogenMod/android_external_libpng" />
   <project path="external/libvpx" name="CyanogenMod/android_external_libvpx" />
+  <project name="koush/Superuser" path="external/koush/Superuser" remote="github" revision="master" />
   <project path="external/linux-tools-perf" name="CyanogenMod/android_external_linux-tools-perf" />
   <project path="external/mksh" name="CyanogenMod/android_external_mksh" />
   <project path="external/openssl" name="CyanogenMod/android_external_openssl" />
