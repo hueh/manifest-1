@@ -21,7 +21,7 @@
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" />
   <project path="bionic" name="CyanogenMod/android_bionic" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
-  <project path="bootable/recovery" name="DevSwift/android_bootable_recovery-1" remote="github" revision="cm-10.1" />
+  <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="device/generic/armv7-a-neon" name="CyanogenMod/android_device_generic_armv7-a-neon" />
@@ -60,8 +60,6 @@
   <project path="external/libogg" name="CyanogenMod/android_external_libogg" />
   <project path="external/libpng" name="CyanogenMod/android_external_libpng" />
   <project path="external/libvpx" name="CyanogenMod/android_external_libvpx" />
-  <project path="external/libselinux" name="CyanogenMod/android_external_libselinux" remote="github" revision="cm-10.1" />
-  <project name="koush/Superuser" path="external/koush/Superuser" remote="github" revision="master" />
   <project path="external/linux-tools-perf" name="CyanogenMod/android_external_linux-tools-perf" />
   <project path="external/mksh" name="CyanogenMod/android_external_mksh" />
   <project path="external/openssl" name="CyanogenMod/android_external_openssl" />
